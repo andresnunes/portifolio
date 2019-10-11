@@ -1,8 +1,10 @@
-# Portifólio - Portifolio
+# Portifólio - Portfolio
 
-:us: Este é o meu portifólio para a exposição de projetos pessoais e para exposição de conhecimentos.
+🇧🇷 Este é o meu portifólio para a exposição de projetos pessoais e para exposição de conhecimentos.
 
-## Técnologias Usadas
+:us: That is my portfolio, here I expose my personal projects and knowledge.
+
+## Técnologias Usadas - Used Technologies 
 
 * **HTML**
 * **CSS**
