@@ -1,5 +1,5 @@
 :root{
-    --verde-escuro:rgb(59, 116, 32);
+    --verde-escuro:#1d420c;
     --verde-claro: #86C232;
     --cinza-escuro: #222529;
     --cinza-medio: #474B4F;
@@ -9,6 +9,8 @@
 *{
     margin: 0px;
     padding: 0px;
+    color: white;
+    background-color: var(--cinza-escuro);
 }
 
 #main{
@@ -35,7 +37,7 @@
     padding: 12px;
     text-align: center; 
     font-size: 1.5em;
-    color: #fff;
+    background-color: var(--verde-escuro);
 }
 
 #navbar a:hover{
@@ -48,7 +50,6 @@
     flex-flow: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--cinza-escuro);
 }
 
 .name{
